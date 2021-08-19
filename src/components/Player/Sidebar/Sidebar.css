@@ -12,9 +12,8 @@
 
   color: #fff;
   background-color: #040404;
-  overflow: auto;
-
-  margin-bottom: 65px;
+  
+  overflow-y: overlay;
 }
 
 .sidebar__logo {

@@ -46,6 +46,7 @@
 
 .footer__right {
   flex: 0.3;
+  max-width: 300px;
 
   display: flex;
   justify-content: space-between;
